@@ -32,7 +32,11 @@
 | 2025.05 | **ZeroSearch: Incentivize the Search Capability of LLMs without Searching**         | arXiv | [Link](https://arxiv.org/abs/2505.04588)                                                                     | [Link](https://github.com/Alibaba-NLP/ZeroSearch)  
 | 2025.04 | **ReZero: Enhancing LLM search ability by trying one-more-time**         | arXiv | [Link](https://arxiv.org/abs/2504.11001)                                                                     | - |
 | 2025.04 | **Multimodal-Search-R1: Incentivizing LMMs to Search**                                                                            | Blog  | [Link](https://kimingng.notion.site/MMSearch-R1-Incentivizing-LMMs-to-Search-1bcce992031880b2bc64fde13ef83e2a) | [Link](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1) |
+| 2025.04 | **DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments**     | arXiv | [Link](https://arxiv.org/abs/2504.03160)                                                                     | [Link](https://github.com/GAIR-NLP/DeepResearcher)       |
 | 2025.03 | **Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning**     | arXiv | [Link](https://arxiv.org/abs/2503.09516)                                                                     | [Link](https://github.com/PeterGriffinJin/Search-R1)       |
+| 2025.02 | **DeepRetrieval: Hacking Real Search Engines and Retrievers with Large Language Models via Reinforcement Learning**     | arXiv | [Link]()                                                                     | [Link](https://github.com/pat-jj/DeepRetrieval)       |
+
+
 
 
 ### Training-Free Approaches
