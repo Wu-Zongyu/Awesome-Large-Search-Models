@@ -30,9 +30,6 @@
 | 2025.05 | **An Empirical Study on Reinforcement Learning for Reasoning-Search Interleaved LLM Agents**         | arXiv | [Link](https://arxiv.org/abs/2505.15117)                                                                     | [Link](https://github.com/PeterGriffinJin/Search-R1)   
 | 2025.05 | **StepSearch: Igniting LLMs Search Ability via Step-Wise Proximal Policy Optimization**         | arXiv | [Link](https://arxiv.org/abs/2505.15107)                                                                     | [Link](https://github.com/Zillwang/StepSearch)   
 | 2025.05 | **Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning**         | arXiv | [Link](https://arxiv.org/abs/2505.14069)                                                                     | [Link](https://github.com/wlzhang2020/ReasonRAG)
-
-
-
 | 2025.05 | **Search and Refine During Think: Autonomous Retrieval-Augmented Reasoning of LLMs**         | arXiv | [Link](https://arxiv.org/abs/2505.11277)                                                                     | [Link](https://github.com/syr-cn/AutoRefine) | 
 | 2025.05 | **Scent of Knowledge: Optimizing Search-Enhanced Reasoning with Information Foraging**         | arXiv | [Link](https://arxiv.org/abs/2505.09316)                                                                     | - | 
 | 2025.05 | **ZeroSearch: Incentivize the Search Capability of LLMs without Searching**         | arXiv | [Link](https://arxiv.org/abs/2505.04588)                                                                     | [Link](https://github.com/Alibaba-NLP/ZeroSearch)  
