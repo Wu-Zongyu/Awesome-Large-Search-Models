@@ -1,5 +1,5 @@
-# Awesome-Large-Search-Models  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
+# Awesome-Large-Search-Models  
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub stars](https://img.shields.io/github/stars/Wu-Zongyu/Awesome-Large-Search-Models)
 - 📖 **Awesome-Large-Search-Models** repository contains the latest paper and blogs about **search-oriented large (reasoning) language models** (**large search models**). Example papers include reinforcement learning-based methods. This repo also has other resources like datasets and popular frameworks.
 - 🌟 Please consider starring us if our repo is helpful.
 - 📮 Feel free to open an issue or pull a request if you think I missed some work.
