@@ -1,14 +1,20 @@
 # Awesome-Large-Search-Models  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-- 📖 **Awesome-Large-Search-Models** repository contains the latest paper and blogs about **search-oriented large (reasoning) language models** (**large search models**). Example papers include reinforcement learning-based methods. This repo also has other resources like datasets and popular frameworks. Feel free to open an issue if you think I missed some work!
-- 🌟 Please consider starring us if our repo is helpful!
+- 📖 **Awesome-Large-Search-Models** repository contains the latest paper and blogs about **search-oriented large (reasoning) language models** (**large search models**). Example papers include reinforcement learning-based methods. This repo also has other resources like datasets and popular frameworks.
+- 🌟 Please consider starring us if our repo is helpful.
+- 📮 Feel free to open an issue or pull a request if you think I missed some work.
 
 ## Table of Contents
 - [Methods](#methods)
   - [Training-based Approaches](#training-based-approaches)
   - [Training-Free Approaches](#training-free-approaches)
 - [Datasets](#datasets)
+- [Surveys](#surveys)
 - [Other Useful Resources](#other-useful-resources)
+
+## 🔥 News
+* Jun 9, 2025: We create this repo to include papers and resources on search-oriented large language models!
+  
 ## Methods
 ### Training-based Approaches
 | Time    | Title                                                                                               | Venue | Paper                                                                                                        | Code                                                       |
@@ -62,6 +68,11 @@
 | Bamboogle | Multi-hop QA      | [Link](https://huggingface.co/datasets/chiayewken/bamboogle) | 
 | 2WikiMultiHopQA | Multi-hop QA      | [Link](https://github.com/Alab-NII/2wikimultihop) | 
 | Musique | Multi-hop QA      | [Link](https://github.com/StonyBrookNLP/musique) | 
+
+## Surveys
+| Time    | Title                                                                                               | Venue | Paper                                                                                                        | 
+|---------|-----------------------------------------------------------------------------------------------------|-------|--------------------------------------------------------------------------------------------------------------|
+| 2025.06 | **Reasoning RAG via System 1 or System 2: A Survey on Reasoning Agentic Retrieval-Augmented Generation for Industry Challenges**      | arXiv | [Link](https://arxiv.org/abs/2506.10408)                  | 
 
 ## Other Useful Resources
 - **OpenRLHF**: https://github.com/OpenRLHF/OpenRLHF
