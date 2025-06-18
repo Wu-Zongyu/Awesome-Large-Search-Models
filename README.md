@@ -1,6 +1,6 @@
 # Awesome-Large-Search-Models  
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub stars](https://img.shields.io/github/stars/Wu-Zongyu/Awesome-Large-Search-Models)
-- 📖 **Awesome-Large-Search-Models** repository contains the latest paper and blogs about **search-oriented large (reasoning) language models** (**large search models**). Example papers include reinforcement learning-based methods. This repo also has other resources like datasets and popular frameworks.
+- 📖 **Awesome-Large-Search-Models** contains the latest paper and blogs about **search-oriented large (reasoning) language models** (**large search models**). Example papers include reinforcement learning-based methods. This repo also has other resources like datasets and popular frameworks.
 - 🌟 Please consider starring us if our repo is helpful.
 - 📮 Feel free to open an issue or pull a request if you think I missed some work.
 
@@ -19,6 +19,7 @@
 ### Training-based Approaches
 | Time    | Title                                                                                               | Venue | Paper                                                                                                        | Code                                                       |
 |---------|-----------------------------------------------------------------------------------------------------|-------|--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| 2025.06 | **CIIR@LiveRAG 2025: Optimizing Multi-Agent Retrieval Augmented Generation through Self-Training**         | arXiv | [Link](https://arxiv.org/abs/2506.10844)                                                                     |  - |
 | 2025.06 | **Knowledgeable-r1: Policy Optimization for Knowledge Exploration in Retrieval-Augmented Generation**         | arXiv | [Link](https://arxiv.org/abs/2506.05154)                                                                     |  - |
 | 2025.06 | **Coordinating Search-Informed Reasoning and Reasoning-Guided Search in Claim Verification**         | arXiv | [Link](https://arxiv.org/abs/2506.07528)                                                                     |  -  |
 | 2025.06 | **R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning**         | arXiv | [Link](https://arxiv.org/abs/2506.04185)                                                                     | [Link](https://github.com/QingFei1/R-Search)               |
