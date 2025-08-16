@@ -8,7 +8,6 @@
 - [Methods](#methods)
   - [Training-based Approaches](#training-based-approaches)
   - [Training-Free Approaches](#training-free-approaches)
-- [Datasets](#datasets)
 - [Surveys](#surveys)
 - [Other Useful Resources](#other-useful-resources)
 
@@ -60,19 +59,7 @@
 | 2022.12 | **Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions**      | ACL'2023 | [Link](https://arxiv.org/abs/2212.10509)                  | [Link](https://github.com/stonybrooknlp/ircot)    |
 | 2022.10 | **Decomposed Prompting: A Modular Approach for Solving Complex Tasks**      | ICLR'2023 | [Link](https://openreview.net/forum?id=_nGgzQjzaRy)                  | [Link](https://github.com/allenai/DecomP)    |
 
-## Datasets
 
-| Name    | Type                                                                                               | Link          |
-|---------|-----------------------------------------------------------------------------------------------------|-------|
-| NQ | One-hop QA      | [Link](https://github.com/google-research-datasets/natural-questions) | 
-| TriviaQA | One-hop QA      | [Link](https://nlp.cs.washington.edu/triviaqa/) | 
-| PopQA | One-hop QA      | [Link](https://huggingface.co/datasets/akariasai/PopQA) | 
-| SQuAD | One-hop QA      | [Link](https://rajpurkar.github.io/SQuAD-explorer/) | 
-| CommonSenseQA | One-hop QA      | [Link](https://huggingface.co/datasets/tau/commonsense_qa) | 
-| HotpotQA | Multi-hop QA      | [Link](https://hotpotqa.github.io/) | 
-| Bamboogle | Multi-hop QA      | [Link](https://huggingface.co/datasets/chiayewken/bamboogle) | 
-| 2WikiMultiHopQA | Multi-hop QA      | [Link](https://github.com/Alab-NII/2wikimultihop) | 
-| Musique | Multi-hop QA      | [Link](https://github.com/StonyBrookNLP/musique) | 
 
 ## Surveys
 | Time    | Title                                                                                               | Venue | Paper                                                                                                        | 
@@ -84,9 +71,3 @@
 - **FlashRAG_datasets**: https://huggingface.co/datasets/RUC-NLPIR/FlashRAG_datasets
 - **verl**: https://github.com/volcengine/verl
 - **LLaMA-Factory**: https://github.com/hiyouga/LLaMA-Factory
-- **EasyRL**: https://github.com/alibaba/EasyReinforcementLearning
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Wu-Zongyu/Awesome-Large-Search-Models&type=Date)](https://www.star-history.com/#Wu-Zongyu/Awesome-Large-Search-Models&Date)
-
